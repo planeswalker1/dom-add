@@ -2,3 +2,16 @@ body {
   margin: 0;
   line-height: 1.65;
 }
+
+@media screen and (max-width: 960px) {
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  a {
+    margin: 10px;
+  }
+}
