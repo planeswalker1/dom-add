@@ -1,12 +1,12 @@
 # _dom-add_
 
-#### _practice manipulating DOM elements by inserting new text, 10.03.2017_
+#### _practice manipulating DOM elements by inserting new text, 10.09.2017_
 
 #### By _**planeswalker1**_
 
 ## Description
 
-_This page has been created to manipulating DOM elements by inserting new text with the jQuery prepend() method._
+_This page has been created to update DOM elements by inserting new text with the jQuery prepend() method._
 
 ## Setup/Installation Requirements
 
